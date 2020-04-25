@@ -22,7 +22,7 @@ make build-rpi2
 
 | Argument | Optional  | Description                                   |
 | -------- | --------- | --------------------------------------------- |
-| --upx    | optional  | Use (UPX)[https://upx.github.io/] compression |
+| --upx    | optional  | Use [UPX](https://upx.github.io/) compression |
 | [SRC]    | mandatory | Package source for `go get`                   |
 | [DEST    | mandatory | Built binary path in the container            |
 
