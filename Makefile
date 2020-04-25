@@ -1,5 +1,3 @@
-.ONESHELL:
-
 IMAGE_NAME=go-build-rpi
 
 build-rpi2:
